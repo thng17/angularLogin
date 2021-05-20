@@ -1,55 +1,60 @@
 .card-title{
-    display: flex;
-    justify-content: center;
-    font-size: 4rem;
-    margin-bottom: 50px;
-  }
-  .card{
-    width: 85rem;
-    height: 45rem;
-    flex-direction: row;
-    background-color: #22252C;
-    justify-content: center;
-    align-items: center;
-    border-radius: 34px;
-  }
-  .btn:hover{
-    color: #F1F0F3;
-  }
-  
-  .btnDesign{
-    width:50%;
-    height:50%;
-    background-color: #F08522;
-    border-color: #F08522;
-    margin-top: 40px;
-    font-size: 1.5rem;
-    color: #F1F0F3;
-  }
-  .btnPosition{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-  .form-control{
-    background-color: #31343B;
-    border: #31343B;
-  }
-  .imgSize{
-    margin-left: 25px;
-    margin-right: 20px;
-    width: 30rem;
-    padding-right: 3rem;
-    border-right: thin solid #FEFEFE ;
-  }
-  
-  .inputShadow{
-    box-shadow: 8px 8px 6px #1C1F25;
-  }
-
-.labelFont{
-    color: #FEFEFE;
-    font-family:'Helvetica';
-    font-weight: lighter;
+  display: flex;
+  justify-content: center;
+  font-size: 4rem;
+  margin-bottom: 50px;
+}
+.card{
+  width: 85rem;
+  height: 45rem;
+  flex-direction: row;
+  background-color: #22252C;
+  justify-content: center;
+  align-items: center;
+  border-radius: 34px;
+}
+.btn:hover{
+  color: #F1F0F3;
 }
 
+.btnDesign{
+  width:50%;
+  height:50%;
+  background-color: #F08522;
+  border-color: #F08522;
+  margin-top: 40px;
+  font-size: 1.5rem;
+  color: #F1F0F3;
+}
+.btnPosition{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.form-control{
+  background-color: #31343B;
+  border: #31343B;
+}
+.imgSize{
+  margin-left: 25px;
+  margin-right: 20px;
+  width: 30rem;
+  padding-right: 3rem;
+  border-right: thin solid #FEFEFE ;
+}
+
+.inputShadow{
+  box-shadow: 8px 8px 6px #1C1F25;
+}
+.cardPosition{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #181C1F;
+}
+
+.labelFont{
+  color: #FEFEFE;
+  font-family:'Helvetica';
+  font-weight: lighter;
+}
